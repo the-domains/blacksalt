@@ -1,0 +1,28 @@
+name: blacksalt
+favicon: null
+layout_spectrum: 0.9109590975567698
+typography_spectrum: 0.5179093715269119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9616479454562068
+  lightness: 0.5009448823984712
+  saturation: 0.04664235841482878
+  rhythmicContrast: 0.8922180058434606
+purpose: []
