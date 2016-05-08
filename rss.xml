@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blacksalt]]></title>
         <description><![CDATA[blacksalt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blacksalt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 01:57:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 14:38:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blacksalt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vinyl Cult]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d58adae1-c794-4f9f-bc9c-d9fc9c4ca9f2.jpg">]]></description>
-            <link>undefinedvinyl-cult/index.html</link>
+            <link>https://thegrid.ai/blacksalt/vinyl-cult/index.html</link>
             <guid isPermaLink="false">d6eea446-3a74-4fca-b752-0647a8c48532</guid>
-            <pubDate>Sun, 08 May 2016 01:57:18 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 14:37:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
