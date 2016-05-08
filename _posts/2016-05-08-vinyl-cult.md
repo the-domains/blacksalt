@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T01:57:18.677Z'
-dateModified: '2016-05-08T01:34:09.034Z'
+datePublished: '2016-05-08T14:37:57.009Z'
+dateModified: '2016-05-08T01:57:44.530Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-vinyl-cult.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-08-vinyl-cult.md
 url: vinyl-cult/index.html
 _type: Article
 
