@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blacksalt]]></title>
         <description><![CDATA[blacksalt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blacksalt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:56:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 21:56:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blacksalt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2010736f-a97c-4515-9004-e914d4853a80.jpg">]]></description>
-            <link>undefined90d7f446-a390-420c-90fb-d6753176b49e/index.html</link>
+            <link>https://thegrid.ai/blacksalt/90d7f446-a390-420c-90fb-d6753176b49e/index.html</link>
             <guid isPermaLink="false">90d7f446-a390-420c-90fb-d6753176b49e</guid>
-            <pubDate>Sat, 28 May 2016 21:55:39 GMT</pubDate>
+            <pubDate>Sat, 28 May 2016 21:56:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
