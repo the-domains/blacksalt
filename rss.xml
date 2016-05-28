@@ -4,7 +4,7 @@
         <description><![CDATA[blacksalt]]></description>
         <link>https://thegrid.ai/blacksalt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 22:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 22:19:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blacksalt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/blacksalt/7cc68117-3f88-464e-8b0f-214db1fc31fc/index.html</link>
             <guid isPermaLink="false">7cc68117-3f88-464e-8b0f-214db1fc31fc</guid>
             <pubDate>Sat, 28 May 2016 22:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f278a5-34ae-41a9-8497-ed878d02a66c.jpg">]]></description>
-            <link>https://thegrid.ai/blacksalt/4749d226-bc1e-4dd0-bc3b-1f93ea62338c/index.html</link>
-            <guid isPermaLink="false">4749d226-bc1e-4dd0-bc3b-1f93ea62338c</guid>
-            <pubDate>Sat, 28 May 2016 22:15:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
