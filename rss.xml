@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blacksalt]]></title>
         <description><![CDATA[blacksalt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blacksalt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:46:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 21:48:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blacksalt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c65892ed-0064-47ec-80a3-d07467a38894.jpg">]]></description>
-            <link>undefined395a0d67-7eff-4f5e-9503-106e5dae14e0/index.html</link>
+            <title><![CDATA[Sky Burial]]></title>
+            <description><![CDATA[<article><h1>Sky Burial</h1><p>Micron and acrylic pens</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c65892ed-0064-47ec-80a3-d07467a38894.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blacksalt/395a0d67-7eff-4f5e-9503-106e5dae14e0/index.html</link>
             <guid isPermaLink="false">395a0d67-7eff-4f5e-9503-106e5dae14e0</guid>
-            <pubDate>Sat, 28 May 2016 21:46:12 GMT</pubDate>
+            <pubDate>Sat, 28 May 2016 21:48:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
