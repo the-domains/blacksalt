@@ -4,8 +4,15 @@
         <description><![CDATA[The art of Jacob Richard Hansen]]></description>
         <link>https://thegrid.ai/blacksalt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:42:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blacksalt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bonehead.</p>]]></description>
+            <link>https://thegrid.ai/blacksalt/bonehead/index.html</link>
+            <guid isPermaLink="false">e3eeee57-7edd-4221-a8b4-f365a07bb329</guid>
+            <pubDate>Wed, 15 Jun 2016 07:42:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9152a1cc-4946-4813-866b-4ed6fb52b28a.jpg">]]></description>
